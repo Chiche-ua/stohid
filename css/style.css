@@ -1,0 +1,29 @@
+body{
+	background-color: seagreen;
+}
+.caption{
+	color: black;
+}
+p, li{
+	color: white;
+}
+h1, h2{
+	text-align: center;
+}
+a{
+	color: saddlebrown;
+}
+img{
+	margin-right: 8px
+}
+#one {
+	text-align: center;
+	width: 40%
+}
+#more {
+	text-align: center;
+	width: 20%
+}
+#looked{
+	color: sandybrown;
+}
